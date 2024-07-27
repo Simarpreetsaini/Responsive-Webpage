@@ -5,10 +5,10 @@ like - 1.Macbook 14 pro<br>
 Technologies used :<br>
 HTML<br>
 CSS<br>
-Author : Simarpreet Singh Email: harkiratsaini47@gmail.com
-My Github profile -:https://github.com/Simarpreetsaini
+Author : Simarpreet Singh Email: harkiratsaini47@gmail.com<br>
+My Github profile -:https://github.com/Simarpreetsaini<br>
 
-Website Link :
+Website Link :https://simarpreetsaini.github.io/Responsive-Webpage/
 
 Here are some outputs of Webpage -:
 
